@@ -1,0 +1,64 @@
+    1  ls
+    2  pwd
+    3  ls
+    4  ls -a
+    5  cd Desktop/
+    6  ls
+    7  игры/
+    8  ls
+    9  cd игры/
+   10  ls
+   11  cd ..
+   12  cd katrin
+   13  ls
+   14  cd май
+   15  mkdir 25.05
+   16  ls
+   17  cd 25.05/
+   18  echo "Hello" > text.txt
+   19  ls
+   20  cat text.txt
+   21  cd ..
+   22  cd ..
+   23  pwd
+   24  cd 18.05
+   25  cd resume_service/
+   26  ls
+   27  cat resume_data.txt
+   28  cd ../../18.05
+   29  ls
+   30  cd ../..
+   31  cd Katrin/май/25.05/
+   32  ls
+   33  dit init
+   34  git init
+   35  git status
+   36  git add text.txt
+   37  git status
+   38  git commit- m "Коментарий"
+   39  git commit - m "Коментарий"
+   40  git status
+   41  git commit -m "Коментарий"
+   42  git config --global user.email "katmat007@rambler.ru"
+   43  git config --global user.name "Katy"
+   44  git conmmit -m
+   45  git commit -m
+   46  it commit -m "Коментарий"
+   47  git commit -m "Коментарий"
+   48  dit status
+   49  git status
+   50  pvd
+   51  pwd
+   52  cd
+   53  cd des
+   54  cd Desktop/Katrin/май/25.05
+   55  ls
+   56  git status
+   57  echo "Второй файЛ" > 2.txt
+   58  ls
+   59  cat
+   60  git status
+   61* 
+   62  histori
+   63  history
+   64  history > history.txt
